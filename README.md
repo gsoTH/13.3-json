@@ -18,7 +18,7 @@ Das bestehende Projekt soll so erweitert werden, dass vorhandene Lieferungs-Obje
 		{
 			"datum": "2023-04-8",
 			"sendungsnummer": "CQX55KMY5RW",
-			"plz": 27708
+			"plz": 7708
 		}
 	]
 }
