@@ -26,7 +26,7 @@
             lieferungen.Add(new Lieferung(
                 new DateOnly(2023, 04, 8)
                 , "CQX55KMY5RW"
-                , "27708"
+                , "07708"
             ));
         }
     }
