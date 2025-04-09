@@ -27,6 +27,7 @@ Das bestehende Projekt soll so erweitert werden, dass vorhandene Lieferungs-Obje
 ## Arbeitsauftrag
 - Informieren Sie sich über den allgmeinen Aufbau von json-Dateien.
 - Fassen Sie Ihre Erkenntnisse in einem kurzen "Spickzettel" zusammen.
+- Beantworten Sie anschließend die NPA in[ diesem Quiz!](https://forms.office.com/e/KfrXpVe5Jb)
 - Erweitern Sie Ihr Programm so, dass eine JSON-Datei nach obigem Vorbild erstellt wird.
 - Nutzen Sie, nach Möglichkeit, keine fertige Bibliothek.
 - Ob die Datei korrekt formatiert ist, können Sie z.B. [hier](https://jsonlint.com/) überprüfen.
