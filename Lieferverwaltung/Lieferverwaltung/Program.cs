@@ -9,6 +9,10 @@
             
             BeispielobjekteAnlegen(lieferungen);
             ErzeugeJSON(lieferungen);
+
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new FrmMain(lieferungen));
         }
 
         static void BeispielobjekteAnlegen(List<Lieferung> originaleListe)
