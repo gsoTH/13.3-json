@@ -34,7 +34,6 @@
 
         static void ErzeugeJSON(List<Lieferung> lieferungen)
         {
-            throw new NotImplementedException();
             // TODO: Datei erzeugen
             // TODO: Anzahl der Objekte in Datei eintragen
             // TODO: Alle Objekte in Datei auflisten
